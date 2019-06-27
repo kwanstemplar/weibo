@@ -25,12 +25,7 @@ class UserController extends Controller
     {
         return view('users.create');
     }
-
-
-    public function create5()
-    {
-        return view('users.create');
-    }
+    
 
     public function create2()
     {
