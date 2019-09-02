@@ -44,12 +44,14 @@ class UserController extends Controller
 
     public function create6()
     {
-        
+        return true;
     }
 
     public function create8(){}
 
     public function create9(){}
+
+    public function create11(){}
 
     public function create99(){}
 
