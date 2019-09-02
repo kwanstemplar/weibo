@@ -42,7 +42,7 @@ class UserController extends Controller
         return view('users.create');
     }
 
-    public function create3()
+    public function create6()
     {
         
     }
@@ -50,6 +50,8 @@ class UserController extends Controller
     public function create8(){}
 
     public function create9(){}
+
+    public function create99(){}
 
     public function create10(){}
 }
