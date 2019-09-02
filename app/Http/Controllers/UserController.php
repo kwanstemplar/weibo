@@ -58,4 +58,6 @@ class UserController extends Controller
     public function create10(){}
 
     public function create12(){}
+
+    public function create13(){}
 }
