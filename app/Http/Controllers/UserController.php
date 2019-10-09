@@ -46,16 +46,4 @@ class UserController extends Controller
     {
         return true;
     }
-
-    public function create8(){}
-
-    public function create9(){}
-
-    public function create11(){}
-
-    public function create99(){}
-
-    public function create10(){}
-
-    public function create12(){}
 }
