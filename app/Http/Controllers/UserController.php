@@ -46,4 +46,9 @@ class UserController extends Controller
     {
         return true;
     }
+
+    public function create7()
+    {
+        return true;
+    }
 }
