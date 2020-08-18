@@ -51,4 +51,8 @@ class UserController extends Controller
     {
         return true;
     }
+    public function create8()
+    {
+        return true;
+    }
 }
